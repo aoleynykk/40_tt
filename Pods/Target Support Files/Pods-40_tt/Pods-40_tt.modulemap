@@ -1,0 +1,6 @@
+framework module Pods_40_tt {
+  umbrella header "Pods-40_tt-umbrella.h"
+
+  export *
+  module * { export * }
+}
